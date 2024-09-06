@@ -1,6 +1,6 @@
 # 1. Cloud Provider
 
-![alt text](image.png)
+![alt text](images/image.png)
 [Source](https://kyleake.medium.com/cloud-comparer-a-public-cloud-comparison-ilyes-68d1d9772a7a)
 
 ---
