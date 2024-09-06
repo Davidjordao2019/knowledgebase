@@ -14,7 +14,7 @@ Features:
 - Agregação: Um Cloud Broker combina e integra vários serviços em um ou mais novos serviços.
  - Serviço de suporte técnico (agregação, arbitragem e intermediação técnica), com foco principal no tratamento de problemas de interoperabilidade entre vários Provedores.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 [Source](https://www.openpr.com/news/1245226/cloud-service-brokerage-market-growth-analysis-by-accenture-doublehorn-jamcracker-ibm-hpe-rightscale-dell-and-many-more.html)
 
 --- 
@@ -45,7 +45,7 @@ Fonte: https://www.in.gov.br/en/web/dou/-/instrucao-normativa-n-5-de-30-de-agost
 
 Conceito: “o aprovisionamento de serviços de nuvem dentro de uma jurisdição, atendendo requisitos de residência dos dados e autonomia operacional. É projetada para garantir que dados e infraestrutura estejam livres do controle por jurisdições externas e protegidos do acesso por governos estrangeiros”.
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 
 Pontos estruturantes da soberania de dados:
